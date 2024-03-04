@@ -64,7 +64,7 @@
 
 <h3 align="left">Contribution :</h3>
 
-<img src="https://raw.githubusercontent.com/Andr0human/Andr0human/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Andr0human/Andr0uman/output/snake.svg" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

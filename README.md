@@ -62,7 +62,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Contribution :</h3>
+<h3 align="left">My Contributions :</h3>
 
 ![snake gif](https://github.com/Andr0human/Andr0human/blob/output/snake.svg)
 

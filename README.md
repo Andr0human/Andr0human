@@ -32,31 +32,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=apollo,cs,cpp,cmake,css" />
   </a>
 </p>
-
-- Frontend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=docker,express,git,github,graphql,html,java" />
   </a>
 </p>
-
-- Database
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,laravel,linux,materialui,mongodb,mysql,nextjs,nodejs,npm" />
   </a>
 </p>
-
-- Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=opencv,php,postman,pycharm,py,react,sublime" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,ts,ubuntu,unity,vscode" />
   </a>
 </p>
 

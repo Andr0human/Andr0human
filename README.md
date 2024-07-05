@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-<!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life) -->
-
 - 💬 Ask me about **C++, Python, JavaScript and NodeJS**
 
-- 📫 How to reach me **ayushsinha3199@gmail.com**
+- 📫 Reach me at **ayushsinha3199@gmail.com**
 
-<!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
+- 👨‍💻 All of my projects are available at [ayush's workspace](https://ayushsinha.dev)
 
 - ⚡ Fun fact **Allodoxaphobia is the fear of other people's opinions.**
 

@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">Full Stack Engineer · React · Node.js · AWS</h3>
 
 ###
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Dentsu-connect**
+- 🔭 I'm currently working as a **Full Stack Engineer at Opslyft**
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I'm currently exploring **System Design and Distributed Systems**
 
-- 💬 Ask me about **C++, Python, JavaScript and NodeJS**
+- 💬 Ask me about **React, Node.js, TypeScript, AWS**
 
 - 📫 Reach me at **ayushsinha3199@gmail.com**
 
-- 👨‍💻 All of my projects are available at [ayush's workspace](https://ayushsinha.dev)
+- 👨‍💻 All of my projects are available at [ayushsinha.dev](https://ayushsinha.dev)
 
 - ⚡ Fun fact **Allodoxaphobia is the fear of other people's opinions.**
 
@@ -32,27 +32,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apollo,cs,cpp,cmake,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,express,git,github,graphql,html,java" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,githubactions" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,laravel,linux,materialui,mongodb,mysql,nextjs,nodejs,npm" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,php,postman,pycharm,py,react,sublime" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,ts,ubuntu,unity,vscode" />
+    <img src="https://skillicons.dev/icons?i=grafana,git,linux,vscode,postman,html,css" />
   </a>
 </p>
 
@@ -65,5 +55,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Andr0human&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>

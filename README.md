@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
-<h3 align="center">Full Stack Engineer · React · Node.js · AWS</h3>
+<h3 align="center">Full Stack Engineer · Cloud Platforms · Go · Node.js · Java</h3>
 
 ###
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I'm currently working as a **Full Stack Engineer at Opslyft**
+- 🔭 I'm currently an **Application Engineer at Yotta Data Services**, working on Apiculus, a multi-tenant cloud management platform, across the Vue frontend, the Node.js services behind it, and the Apache CloudStack engine underneath
 
-- 🌱 I'm currently exploring **System Design and Distributed Systems**
+- 🌱 I'm currently exploring **Go, distributed systems, and performance engineering**
 
-- 💬 Ask me about **React, Node.js, TypeScript, AWS**
+- 💬 Ask me about **Go, Node.js, TypeScript, AWS, and chasing down slow endpoints**
 
 - 📫 Reach me at **ayushsinha3199@gmail.com**
 
@@ -32,19 +32,30 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=go,ts,js,java,py,cpp" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vue" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,git,linux,vscode,postman,html,css" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,grafana,git,linux,vscode,postman" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Open Source :</h3>
+
+- **[apache/cloudstack#13700](https://github.com/apache/cloudstack/pull/13700)** · Fixed a concurrency race in the async work-job queue where two calls detaching *different* network interfaces from the same VM collapsed into a single job. One detach silently never ran, yet both API calls returned success, leaving the VM holding a network interface the control plane believed was gone. Re-keyed pending-job deduplication on NIC UUID and added 3 regression tests. Merged into release 4.22.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
